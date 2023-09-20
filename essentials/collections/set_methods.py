@@ -11,6 +11,5 @@ conjunto_d = {2, 3, 4}
 # {}.difference --> metodo que tira a diferença dos conjuntos
 conjunto_z = {1, 2, 3}
 conjunto_y = {3, 4, 5}
-
-print(conjunto_y.difference(conjunto_z))
-print(conjunto_z.difference(conjunto_y))
+# print(conjunto_y.difference(conjunto_z))
+# print(conjunto_z.difference(conjunto_y))
